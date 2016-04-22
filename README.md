@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/mpclarkson/freshdesk-bundle.svg?branch=master)](https://travis-ci.org/mpclarkson/freshdesk-bundle)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/mpclarkson/freshdesk-bundle/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/mpclarkson/freshdesk-bundle/?branch=master)
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/8536bd3a-943d-4ccc-a96b-606aace3ed87/big.png)](https://insight.sensiolabs.com/projects/8536bd3a-943d-4ccc-a96b-606aace3ed87)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/8536bd3a-943d-4ccc-a96b-606aace3ed87/mini.png)](https://insight.sensiolabs.com/projects/8536bd3a-943d-4ccc-a96b-606aace3ed87)
 
 This is a Symfony2-3 bundle to interact with the Freshdesk API v2 via 
 the [freshdesk-php-sdk](https://github.com/mpclarkson/freshdesk-php-sdk).
