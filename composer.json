@@ -1,6 +1,7 @@
 {
   "name" : "mpclarkson/freshdesk-bundle",
   "description" : "Symfony bundle for the Freshdesk API (v2)",
+  "homepage": "https://github.com/mpclarkson/freshdesk-bundle",
   "type" : "symfony-bundle",
   "authors" : [
     {
@@ -10,9 +11,8 @@
     }
   ],
   "keywords" : ["freshdesk", "help desk", "symfony", "support"],
-  "license" : [ "MIT"],
+  "license" : "MIT",
   "require" : {
-    "symfony/framework-bundle": "~2.3",
     "mpclarkson/freshdesk-php-sdk": "0.2.*"
   },
   "require-dev": {
