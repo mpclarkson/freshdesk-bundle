@@ -1,0 +1,7 @@
+parameters:
+  freshdesk_sdk_class: Freshdesk\Api
+
+services:
+  freshdesk:
+      class: '%freshdesk_sdk_class%'
+      arguments: ['%freshdesk_api_key%', '%freshdesk_domain%']

@@ -1,0 +1,31 @@
+{
+  "name" : "mpclarkson/freshdesk-bundle",
+  "description" : "Symfony bundle for the Freshdesk API (v2)",
+  "type" : "symfony-bundle",
+  "authors" : [
+    {
+      "name" : "Matthew Clarkson",
+      "email" : "mpclarkson@gmail.com",
+      "homepage": "http://mpclarkson.github.io/"
+    }
+  ],
+  "keywords" : ["freshdesk", "help desk", "symfony", "support"],
+  "license" : [ "MIT"],
+  "require" : {
+    "symfony/framework-bundle": "~2.3",
+    "mpclarkson/freshdesk-php-sdk": "0.2.*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4"
+  },
+  "autoload" : {
+    "psr-4": {
+      "Mpclarkson\\FreshdeskBundle\\": ""
+    }
+  },
+  "extra" : {
+    "branch-alias" : {
+      "dev-master" : "1-dev"
+    }
+  }
+}
