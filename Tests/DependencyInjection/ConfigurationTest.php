@@ -3,7 +3,7 @@
 namespace Mpclarkson\FreshdeskBundle\Tests\DependencyInjection;
 
 /**
- * @covers Mpclarkson\FreshdeskBundle\DependencyInjection\Configuration
+ * @covers \Mpclarkson\FreshdeskBundle\DependencyInjection\Configuration
  */
 class ConfigurationTest extends \PHPUnit_Framework_TestCase
 {
