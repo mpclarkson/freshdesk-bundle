@@ -8,8 +8,8 @@ use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Yaml\Parser;
 
 /**
- * @covers Hilenium\StyleBundle\DependencyInjection\Configuration
- * @covers Hilenium\StyleBundle\DependencyInjection\HileniumStyleExtension
+ * @covers Mpclarkson\FreshdeskBundle\DependencyInjection\Configuration
+ * @covers Mpclarkson\FreshdeskBundle\DependencyInjection\HileniumStyleExtension
  */
 class FreshdeskExtensionTest extends \PHPUnit_Framework_TestCase
 {
